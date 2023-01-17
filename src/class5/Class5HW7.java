@@ -18,18 +18,22 @@ public class Class5HW7 {
         String language4 = "Afghani";
         switch (country) {
 
-         /*   case "USA":
+            case "USA":
                 System.out.println("You speak English");
                 break;
-            case "BANGLADESH":
+            case "Bangladesh":
                 System.out.println("You speak Bengali");
                 break;
             case "Pakistan":
                 System.out.println("You speak Urdu");
                 break;
-            case "USA":
-                System.out.println("You speak English");
-                break;*/
+            case "India":
+                System.out.println("You speak Hindi");
+                break;
+            case "Afghanistan":
+                System.out.println("You speak Afghani");
+                break;
+
 
 
         }

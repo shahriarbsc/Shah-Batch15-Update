@@ -1,7 +1,6 @@
-package class5;
+/*package class5;
 
 public class SwitchCaseDemo3 {
-    public static void main(String[] args) {
 
         //we can only use byte, short, int, char, String
 
@@ -23,5 +22,3 @@ public class SwitchCaseDemo3 {
 
 
 
-    }
-}
